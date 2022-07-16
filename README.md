@@ -16,6 +16,9 @@ Clone this repo and, from within the cloned directory, run python setup.py insta
 import MonteCarloModules
 ```
 
+
+# API Description
+
 ## Create Die:
 The below code creates Die with faces called face1 and face2.
 ```
