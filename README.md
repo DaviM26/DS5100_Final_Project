@@ -1,6 +1,17 @@
-# DS5100_Final_Project
+# MonteCarloModules
 This is my DS5100 Final Project Repo
 This repo contains a Monte Carlo Simulator
+
+## Installing:
+
+Clone this repo and, from within the cloned directory, run python setup.py install — or python setup.py install --user if you are on a shared system where you can't write to the python directory. This will install the script MonteCarloModules into your current Python environment. The script MonteCarloModules will be callable from anywhere on your system
+
+## Import
+```
+import MonteCarloModules
+```
+
+
 
 
 Description of what the modules do:
