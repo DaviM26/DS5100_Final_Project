@@ -122,8 +122,7 @@ A face counts per roll method to compute how many times a given face is rolled i
 Stores the results as a dataframe in a public attribute.
 The dataframe has an index of the roll number and face values as columns (i.e. it is in wide format).
 
-
-
-
+# Manifest
+This Repo will contain important files, including the MonteCarloModule, the UnitTest file, the UnitTest output file, an __init__ file, a setup.py file, and an example ipynb showing usage of this package through 3 scenerios. 
 
 
