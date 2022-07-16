@@ -1,7 +1,7 @@
 # MonteCarloModules
 This is Davi's DS5100 Final Project Repo
 
-This repo contains a Monte Carlo Simulator
+This Repo contains a Monte Carlo Simulator that I built
 
 ## Manifest
 This Repo will contain important files, including the MonteCarloModule, the UnitTest file, the UnitTest output file, an __init__ file, a setup.py file, and an example ipynb showing usage of this package through 3 scenerios. 
