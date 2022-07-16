@@ -2,6 +2,10 @@
 This is Davi's DS5100 Final Project Repo
 This repo contains a Monte Carlo Simulator
 
+## Manifest
+This Repo will contain important files, including the MonteCarloModule, the UnitTest file, the UnitTest output file, an __init__ file, a setup.py file, and an example ipynb showing usage of this package through 3 scenerios. 
+
+
 ## Installing:
 
 Clone this repo and, from within the cloned directory, run python setup.py install — or python setup.py install --user if you are on a shared system where you can't write to the python directory. This will install the script MonteCarloModules into your current Python environment. The script MonteCarloModules will be callable from anywhere on your system
@@ -122,7 +126,6 @@ A face counts per roll method to compute how many times a given face is rolled i
 Stores the results as a dataframe in a public attribute.
 The dataframe has an index of the roll number and face values as columns (i.e. it is in wide format).
 
-# Manifest
-This Repo will contain important files, including the MonteCarloModule, the UnitTest file, the UnitTest output file, an __init__ file, a setup.py file, and an example ipynb showing usage of this package through 3 scenerios. 
+
 
 
