@@ -1,0 +1,18 @@
+test_combo (__main__.analyzer_test)
+this tests the combo method to make sure it returns the correct output ... ok
+test_face_counts_per_roll (__main__.analyzer_test)
+This tests the face counts per roll method to make sure it returns the correct output ... ok
+test_jackpot (__main__.analyzer_test)
+this tests the jackpot method to see if it returns the correct values ... ok
+test_change_weight (__main__.die_test)
+Test if the change_weight function works ... ok
+test_print_df (__main__.die_test)
+test if the print_df function works ... ok
+test_rolls (__main__.die_test)
+test if the rolls function works ... ok
+test_play (__main__.game_test)
+test if play returns the correct outcomes ... ok
+test_return_faces (__main__.game_test)
+tests if return_faces returns the correct faces ... ok
+test_show (__main__.game_test)
+test if show returns the correct dataframe ... ok
